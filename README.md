@@ -1,0 +1,2 @@
+# HorSagaReplay
+オルサガのリプレイ機能
